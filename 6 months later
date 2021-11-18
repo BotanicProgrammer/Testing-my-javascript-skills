@@ -1,0 +1,5 @@
+console.log("I am just testing out my JavaScript skills.");
+console.log(" ");
+console.log("I will probably need to learn Javascript and Python to make a game. I know HTML though. It was the first professional coding language I learned.");
+const Cplusplus = " c++ is very difficult";
+console.log(Cplusplus);
